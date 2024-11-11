@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "storefront_hostname": "https://commerce-testing-headless-isr.vercel.app",
+    "storefront_hostname": "commerce-testing-headless-isr.vercel.app",
     "content_for_index": []
   }
 }
